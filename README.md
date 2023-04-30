@@ -6,7 +6,7 @@
 * [Отчётные документы по итогам тестирования](https://github.com/KaterinaRekiyan/aqa-diplom/blob/main/Documentation/Report.md) 
 * [Отчётные документы по итогам автоматизации](https://github.com/KaterinaRekiyan/aqa-diplom/blob/main/Documentation/Summary.md)
 
-## процедура запуска автотестов
+## Процедура запуска автотестов
 1. Нужно заранее установить и запустить [Docker Desktop](https://github.com/netology-code/aqa-homeworks/blob/master/docker/installation.md) на локальном компьютере.
 2. Заранее установить и запустить [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) на локальном компьютере.
 3. Склонировать репозиторий командой в консоли: git clone https://github.com/KaterinaRekiyan/aqa-diplom.
